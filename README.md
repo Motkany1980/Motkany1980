@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm István keszericze</h1>
 <h3 align="left">A passionate frontend developer from Hungary</h3>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Motkany1980&show_icons=true&locale=en" alt="Motkany1980" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Motkany1980&label=Profile%20views&color=0e75b6&style=flat" alt="Motkany1980" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Motkany1980" alt="Motkany1980" /></a> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Motkany1980&label=Profile%20views&color=0e75b6&style=flat" alt="Motkany1980" /> </p>
-
 <p align="left"> <a href="https://twitter.com/keszericze80" target="blank"><img src="https://img.shields.io/twitter/follow/keszericze istván?logo=twitter&style=for-the-badge" alt="keszericze istván" /></a> </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Motkany1980&label=Profile%20views&color=0e75b6&style=flat" alt="Motkany1980" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

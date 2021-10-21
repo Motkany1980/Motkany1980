@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Motkany1980&show_icons=true&locale=en" alt="Motkany1980" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Motkany1980&" alt="Motkany1980" /></p>
-<a href="https://scodein.tech/"><img src="./readme_assets/open_source_programs/sci.png" width= "25%"/></a>
+<a href="https://scodein.tech/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ruander.hu%2Fruander-klub.html&psig=AOvVaw3oORCszks1jMF4uWCBQ75b&ust=1634893136658000&source=images&cd=vfe&ved=2ahUKEwiuvsLWkdvzAhX3xbsIHZPQC50QjRx6BAgAEAk" width= "25%"/></a>
 

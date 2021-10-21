@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 
 ## <p>Recent Repositories</p>
-<a href="https://github.com/Motkany1980/RuanderFiles" target="blank">Ruander Files<a/> - [code](https://github.dev/Motkany1980/RuanderFiles)/ <a href="https://github.com/Motkany1980/D3JS" target="blank">D3JS for Sharepoint<a/> - [code](https://github.dev/Motkany1980/D3JS)
+<a href="https://github.com/Motkany1980/RuanderFiles" target="blank">Ruander Files<a/> - [code](https://github.dev/Motkany1980/RuanderFiles) / <a href="https://github.com/Motkany1980/D3JS" target="blank">D3JS for Sharepoint<a/> - [code](https://github.dev/Motkany1980/D3JS)
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Motkany1980&show_icons=true&locale=en" alt="Motkany1980"/></p>
 

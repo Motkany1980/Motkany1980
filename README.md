@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Motkany1980&show_icons=true&locale=en" alt="Motkany1980" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Motkany1980&" alt="Motkany1980" /></p>
+<a href="https://scodein.tech/"><img src="./readme_assets/open_source_programs/sci.png" width= "25%"/></a>
+

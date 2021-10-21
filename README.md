@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm István keszericze</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Motkany1980&show_icons=true&locale=en" alt="Motkany1980"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Motkany1980&show_icons=true&locale=en" alt="Motkany1980"/></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Motkany1980" alt="Motkany1980" /></a> </p> -->
 

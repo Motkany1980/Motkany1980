@@ -4,7 +4,7 @@
 
 ## <p>Recent Repositories</p>
 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Motkany1980" alt="Motkany1980" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Motkany1980" alt="Motkany1980" width="50px"/></a> </p>
  
 <a href="https://github.com/Motkany1980/RuanderFiles" target="blank">Ruander Files<a/> - [code](https://github.dev/Motkany1980/RuanderFiles) / <a href="https://github.com/Motkany1980/D3JS" target="blank">D3JS for Sharepoint<a/> - [code](https://github.dev/Motkany1980/D3JS)
   

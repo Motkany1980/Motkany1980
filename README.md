@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm István keszericze</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Motkany80&label=Profile%20views&color=0e75b6&style=flat" alt="Motkany80" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Motkany1980&label=Profile%20views&color=0e75b6&style=flat" alt="Motkany1980" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Motkany80" alt="Motkany80" /></a> </p>
 

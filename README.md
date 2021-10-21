@@ -23,6 +23,6 @@
   
  </br></br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Motkany1980" alt="Motkany1980" width="1200px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Motkany1980" alt="Motkany1980" width="1500px"/></a> </p>
 
  <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Motkany1980&show_icons=true&locale=en&layout=compact" alt="Motkany1980" /></p> -->
